@@ -1,5 +1,3 @@
-package TNS;
-
 abstract class Animal{
 abstract void sound();
 void eat() {
