@@ -1,4 +1,3 @@
-package TNS;
 import java.util.*;
 
 public class LinkedListExample {
