@@ -15,9 +15,9 @@ public class ArayLIst {
 		//System.out.println(list); //To print values like array
 		
 		//Method 2
-//		Iterator itr=list.iterator(); //iterator is an interface
-//		while(itr.hasNext())
-//			System.out.println(itr.next());
+		// Iterator itr=list.iterator(); //iterator is an interface
+		// while(itr.hasNext())
+		// 	System.out.println(itr.next());
 
 		//Method 3 using foreach loop
 		for(String fruit:list)
