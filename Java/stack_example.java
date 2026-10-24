@@ -1,3 +1,4 @@
+package TNS;
 import java.util.*;
 
 public class stack_example {
